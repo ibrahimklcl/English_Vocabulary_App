@@ -1,0 +1,3 @@
+dogru=44
+yanlis=48
+yanlislar=Predict
