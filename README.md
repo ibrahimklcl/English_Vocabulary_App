@@ -11,13 +11,13 @@ Learning technical terms in the aerospace and electronics industry can be challe
 * Practice with a clean, distraction-free interface.
 
 ## Features
-* **Modern Interface: A user-friendly GUI with Dark/Light mode support.
+* Modern Interface: A user-friendly GUI with Dark/Light mode support.
 
-* **Progress Tracking: The app remembers your correct and incorrect answers even after you close it.
+* Progress Tracking: The app remembers your correct and incorrect answers even after you close it.
 
-* **Smart Review: It automatically re-asks the words you missed until you learn them.
+* Smart Review: It automatically re-asks the words you missed until you learn them.
 
-* **Easy to Update: You can add new words simply by editing the words.txt file.
+* Easy to Update: You can add new words simply by editing the words.txt file.
 
 ## How to Run
 1. Clone this repository.
